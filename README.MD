@@ -11,10 +11,10 @@ A continuación, la explicación de los proyectos:
 Para este diseño, solo se incluye el acceso al reproductor. La intención de este portafolio es mostrar las habilidades adquiridas en el curso de "Desarrollo de Software" y las herramientas aplicadas para desarrollar este proyecto.
 
 ### Diseño para Smartphone
-![Diseño para Smartphone](https://github.com/RoyalMasterDevs/proyecto_marcogll1/blob/main/img/portafolio_phone.png)
+![Diseño para Smartphone](https://github.com/RoyalMasterDevs/proyecto_marcogll1/blob/main/img/portafolio-phone.png)
 
 ### Diseño para Desktop
-![Diseño para Desktop](https://github.com/RoyalMasterDevs/proyecto_marcogll1/blob/main/img/portafolio_desktop.png)
+![Diseño para Desktop](https://github.com/RoyalMasterDevs/proyecto_marcogll1/blob/main/img/portafolio-desktop.png)
 
 ### Patrón de diseño
 
